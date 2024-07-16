@@ -1,1 +1,1 @@
-# CODTECH-TASK-2
+NAME:Nagellaanithareddy COMPANY:CODETECH IT SOLUTIONS ID:CT12DS763 DOMAIN:VLSI DURATION:15th JUNE 2024 to 15th AUG 2024 MENTOR:G.SRAVANI OVERVIEW OF THE PROJECT:VERILOG code for design FSM OBJECTIVE:The objective of the projectbis to design FSM using verilog and testbench to test various states and transitions of FSM KEY ACTIVITIES:Design FSM TECHNOLOGIES USED:ModelSim,VCS
